@@ -52,3 +52,15 @@ color: white;
 	box-shadow: 1px 1px rgb(57, 41, 204);
 	transform: scale(1.1);
 }
+.buscar{
+	border: 1px solid gray;
+	padding: 4px;
+	border-radius: 10px;
+}
+
+
+.buscar > input{
+
+	outline: none;
+	border:0;
+}
