@@ -101,4 +101,25 @@ width: 100%;
 
 .hijo{
 	margin-right: 10px;
+	background-color: gray;
+	border-top-left-radius:10px;
+	border-top-right-radius: 10px;
+
+
+}
+.contenedor1 > img{
+	border-top-left-radius:10px;
+	border-top-right-radius: 10px;
+}
+
+.spamNose{
+	color: white;
+	padding: 10px;
+	font-size: 20px;
+
+}
+
+.contenedor1:hover{
+	cursor: pointer;
+	transform: scale(1.03);
 }
