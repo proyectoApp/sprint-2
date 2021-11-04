@@ -94,7 +94,7 @@ color: white;
 */
 
 .contenedor1{
-	width: 290px;
+	width: 323px;
 	height: 390px;
 	display: flex;
 
@@ -117,8 +117,8 @@ li.hijo{
 
 
 .hijo{
-	margin-right: 10px;
-	background-color: rgb(78, 68, 68);
+	margin-right:10px;
+	background-color: rgb(90, 69, 69);
 border-radius: 10px;
 margin-right: 25px;
 
@@ -132,10 +132,10 @@ margin-right: 25px;
 }
 
 .spamNose{
-	color: rgb(238, 228, 228);
+	color: rgb(236, 232, 232);
 	padding: 20px ;
 	font-size: 20px;
-	
+
 }
 
 .contenedor1:hover{
