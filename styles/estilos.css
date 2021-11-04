@@ -28,7 +28,7 @@ ul{
 }
 .mainButom{
 	border: 0;
-	padding: 7px 10px;
+	padding: 8px 10px;
 	border-radius: 10px;
 	font-weight: bolder;
 }
@@ -54,7 +54,7 @@ color: white;
 }
 .buscar{
 	border: 1px solid gray;
-	padding: 4px;
+	padding: 8px;
 	background-color: white;
 	border-radius: 10px;
 	width: 300px;
@@ -78,6 +78,8 @@ color: white;
 .navbar{
 	background-color: rgb(219, 219, 219);
 	border-bottom: 3px solid rgb(192, 192, 192);
+	font-weight: bolder;
+
 
 }
 .navbar > li{
@@ -88,6 +90,7 @@ color: white;
 	width: 250px;
 	height: 400px;
 	display: flex;
+
 }
 .contenedor1 > img{
 object-fit: cover;
@@ -96,16 +99,16 @@ width: 100%;
 
 .padre{
 	display: flex;
+	margin-left: 40px;
+
 
 }
 
 .hijo{
 	margin-right: 10px;
 	background-color: gray;
-	border-top-left-radius:10px;
-	border-top-right-radius: 10px;
-
-
+border-radius: 10px;
+margin-right: 25px;
 }
 .contenedor1 > img{
 	border-top-left-radius:10px;
@@ -122,4 +125,12 @@ width: 100%;
 .contenedor1:hover{
 	cursor: pointer;
 	transform: scale(1.03);
+}
+
+h1{
+font-family: Arial, Helvetica, sans-serif;
+font-size: 25px;
+text-align: center;
+padding: 10px;
+color: rgb(182, 182, 182);
 }
