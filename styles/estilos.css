@@ -106,7 +106,7 @@ width: 100%;
 
 .hijo{
 	margin-right: 10px;
-	background-color: gray;
+	background-color: rgb(150, 144, 144);
 border-radius: 10px;
 margin-right: 25px;
 }
@@ -116,7 +116,7 @@ margin-right: 25px;
 }
 
 .spamNose{
-	color: white;
+	color: rgb(238, 228, 228);
 	padding: 10px;
 	font-size: 20px;
 
@@ -134,3 +134,29 @@ text-align: center;
 padding: 10px;
 color: rgb(182, 182, 182);
 }
+
+.lobo{
+height: 20px;
+padding: 10px;
+display: flex;
+justify-content: space-between;
+
+}
+
+.corazon {
+width: 20px;
+
+}
+
+.notaria{
+font-weight:bolder;
+
+}
+
+.comentario {
+	width: 20px;
+
+	}
+.ver {
+	width: 20px;
+	}
