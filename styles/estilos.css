@@ -106,7 +106,7 @@ width: 100%;
 
 .hijo{
 	margin-right: 10px;
-	background-color: rgb(150, 144, 144);
+	background-color: rgb(85, 79, 79);
 border-radius: 10px;
 margin-right: 25px;
 }
@@ -141,6 +141,10 @@ padding: 10px;
 display: flex;
 justify-content: space-between;
 
+
+}
+.lobo >div >img{
+vertical-align: top;
 }
 
 .corazon {
@@ -150,6 +154,7 @@ width: 20px;
 
 .notaria{
 font-weight:bolder;
+font-size: 15px;
 
 }
 
